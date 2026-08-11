@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using Content.Goobstation.Shared.MisandryBox.JumpScare;
+using Content.Goobstation.Shared.MisandryBox.Smites;
 using Content.Goobstation.Shared.Supermatter;
 using Content.Goobstation.Shared.Supermatter.Components;
 using Content.Goobstation.Shared.Supermatter.Systems;
@@ -46,7 +47,7 @@ using Robust.Shared.Physics.Events;
 using Robust.Shared.Timing;
 using Robust.Shared.Player;
 using Robust.Shared.Utility;
-using Content.Goobstation.Shared.MisandryBox.Smites;
+
 
 namespace Content.Goobstation.Server.Supermatter.Systems;
 
